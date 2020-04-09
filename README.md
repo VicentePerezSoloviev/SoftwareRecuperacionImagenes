@@ -26,6 +26,6 @@ To add the first database
 3. Add images to the database
 4. Calculate descriptors and work with it!
 
-![Image of the main screen from which functionalities can be used](image.png)
+![Image of the main screen from which functionalities can be used](https://github.com/VicentePerezSoloviev/SoftwareRecuperacionImagenes/image.png)
 
 
